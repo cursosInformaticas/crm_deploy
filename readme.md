@@ -31,14 +31,3 @@ npm install --save jsonwebtoken bcrypt
 ## variable de entorno
 npm install --sade dotenv
 
-# password
-QQrGKSaUEh7gNYiX
-
-# mongo export
-mongoexport -d restapi -c usuarios -o usuarios.json 
-
-#mongo import
-mongoimport --uri mongodb+srv://huanchoit:<PASSWORD>@cluster0.ndxvqwi.mongodb.net/<DATABASE> --collection <COLLECTION> --type <FILETYPE> --file <FILENAME>
-
-
-mongoimport --uri mongodb+srv://huanchoit:QQrGKSaUEh7gNYiX@cluster0.ndxvqwi.mongodb.net/huanchoit --collection usuarios --type json --file usuarios.json
