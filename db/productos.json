@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6566b2585734efd3ccd44cf4"},"nombre":"camisa github","precio":332,"imagen":"P5Z-suHy3.jpeg","__v":0}
+{"_id":{"$oid":"6566b2645734efd3ccd44cf6"},"nombre":"camisa reduxjs","precio":333,"imagen":"pkWSrrDc1.jpeg","__v":0}
+{"_id":{"$oid":"6566b26c5734efd3ccd44cf8"},"nombre":"camisa node","precio":223,"imagen":"gxnVzJe8g.jpeg","__v":0}
+{"_id":{"$oid":"656921455cc7fe003dc5cfd6"},"nombre":"Camisa typescript","precio":122,"imagen":"EPe-zZvuD.jpeg","__v":0}
+{"_id":{"$oid":"656922165cc7fe003dc646fa"},"nombre":"Camisa Angular","precio":39,"imagen":"QdR1UEsIz.jpeg","__v":0}

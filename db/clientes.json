@@ -1,0 +1,4 @@
+{"_id":{"$oid":"65729f34d6550704af99ecf0"},"nombre":"Manuel","apellido":"Huancho","empresa":"HuanchoIT","telefono":"3434343","__v":0}
+{"_id":{"$oid":"6572a652d6550704af9a2aa4"},"nombre":"veronica","apellido":"talis","empresa":"huanchoIT","email":"vero@gmail.com","telefono":"9988887","__v":0}
+{"_id":{"$oid":"6572aaa9d6550704af9a3918"},"nombre":"loe","apellido":"lolo","empresa":"llllll","email":"lolo@gmail.com","telefono":"22424","__v":0}
+{"_id":{"$oid":"6596256db015f7f538eea587"},"nombre":"queloque","apellido":"lore","empresa":"huanchoit","email":"huancho@gmail.com","telefono":"123455","__v":0}
